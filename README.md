@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjana-lakshan&label=Profile%20views&color=0e75b6&style=flat" alt="anjana-lakshan" /> </p>
 
-- 🔭 I’m currently working on **react**
+- 🔭 I’m currently working on **Android & Swift**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Swift**
 
 - 👯 I’m looking to collaborate on **flutter**
 
